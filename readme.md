@@ -1,0 +1,1 @@
+A very simple javascript application that calculates a 15% tip on a given amount. No data or error validation coded. 
